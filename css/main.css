@@ -3,11 +3,19 @@ html {
 }
 
 .masthead {
-
+  background-color: #588477;
+  border-top: 3px solid #145b1d;
+  border-bottom: 3px solid #2d5a4d;
+  background-image: url("../images/leaf-bg.svg");
+  background-size: 64px;
 }
 
 .logo {
   text-align: center;
+}
+
+h1 {
+  color: #fff;
 }
 
 .nav {
